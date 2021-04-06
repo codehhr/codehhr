@@ -1,9 +1,3 @@
-<style>
-  a{
-    display:inline-block;
-    width:500px;
-  }
-</style>
 <a href="https://github.com/codehhr">
   <img src="https://github-readme-stats.vercel.app/api?username=codehhr&show_icons=true&theme=graywhite"/>
 </a>
